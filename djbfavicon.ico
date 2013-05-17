@@ -1,0 +1,2 @@
+(r'^favicon\.ico$', 'django.views.generic.simple.redirect_to', {'url': 'https://code.djangoproject.com/raw-attachment/ticket/3867/django_favico_16x16.ico'})
+
